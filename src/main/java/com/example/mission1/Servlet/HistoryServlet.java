@@ -1,4 +1,6 @@
-package com.example.mission1;
+package com.example.mission1.Servlet;
+
+import com.example.mission1.Controllers.HistoryDbController;
 
 import javax.servlet.*;
 import javax.servlet.http.*;

@@ -1,4 +1,4 @@
-<%@ page import="com.example.mission1.ApiExplorer" %>
+<%@ page import="com.example.mission1.Controllers.ApiExplorer" %>
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>

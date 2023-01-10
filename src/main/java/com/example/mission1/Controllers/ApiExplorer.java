@@ -1,5 +1,7 @@
-package com.example.mission1;
+package com.example.mission1.Controllers;
 
+import com.example.mission1.Controllers.WifiDbController;
+import com.example.mission1.Models.Wifi;
 import com.google.gson.*;
 
 import java.io.*;

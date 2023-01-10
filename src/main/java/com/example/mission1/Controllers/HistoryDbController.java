@@ -1,4 +1,6 @@
-package com.example.mission1;
+package com.example.mission1.Controllers;
+
+import com.example.mission1.Models.History;
 
 import java.sql.*;
 import java.util.ArrayList;

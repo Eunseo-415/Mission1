@@ -1,4 +1,4 @@
-package com.example.mission1;
+package com.example.mission1.Models;
 
 public class History {
     public int id;

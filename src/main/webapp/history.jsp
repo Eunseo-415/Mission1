@@ -1,6 +1,6 @@
-<%@ page import="com.example.mission1.HistoryDbController" %>
+<%@ page import="com.example.mission1.Controllers.HistoryDbController" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.example.mission1.History" %>
+<%@ page import="com.example.mission1.Models.History" %>
 <%@ page import="java.util.List" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>

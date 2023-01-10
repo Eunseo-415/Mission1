@@ -1,8 +1,8 @@
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="com.example.mission1.Wifi" %>
-<%@ page import="com.example.mission1.WifiDbController" %>
-<%@ page import="com.example.mission1.WifiDbController" %>
+<%@ page import="com.example.mission1.Models.Wifi" %>
+<%@ page import="com.example.mission1.Controllers.WifiDbController" %>
+<%@ page import="com.example.mission1.Controllers.WifiDbController" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
