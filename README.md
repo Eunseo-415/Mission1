@@ -1,6 +1,6 @@
 # Mission 1: 데이터 베이스/자바 기반 Pure 자바 프로젝트 과제
 
-## Sqlite 사용
+### Sqlite 사용
 
 ### 총 3 페이지로 구현되어있습니다.
 - savePage.jsp: open api 정보 불러오기를 클릭했을때 넘어가는 페이지
